@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Seekbar App</string>
+    <string name="seekbar_value_message">The seekbar value is: %1$d</string>
+    <string name="show_square">Show Square</string>
+    <string name="instructions">Try to tap the square</string>
+    <string name="tapped_square">You tapped the square.</string>
+    <string name="missed_tap">You missed the square</string>
+</resources>
